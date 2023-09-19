@@ -27,5 +27,3 @@ bayesian['joint'] = bayesian['prior'] * bayesian['likelihood']
 norm_const = bayesian['joint'].sum()
 bayesian['posterior'] = bayesian['joint'] / norm_const
 print(bayesian, '\n')
-
-
