@@ -17,11 +17,11 @@
 import pandas as pd
 
 prior = pd.read_csv('prior_probs.csv', index_col=0)
-total_likelihood = pd.read_csv('total_likelihoods.csv', index_col=0) # 전체 likelihood DF
+total_likelihood = pd.read_csv('total_likelihoods.csv', index_col=0) # 전체 likelihood
 
 bayesian = prior.copy()
-bayesian.rename(columns={'severity' : 'prior'}, # 컬럼 이름(severity -> prior) 바꿔 줌
-                inplace=True)
+bayesian.rename(columns={'severity' : 'prior'}, inplace=True)
+
 bayesian['likelihood'] = total_likelihood.loc['Mon'] # <- 여기 row값만 바꿔주면 됨
 bayesian['joint'] = bayesian['prior'] * bayesian['likelihood']
 norm_const = bayesian['joint'].sum()
