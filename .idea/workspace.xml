@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f2dbe10-0e4c-4726-b7ba-fc5cfc9c7fbc" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/code9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/day_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/prior_probs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/road_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/sex_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/surface_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/time_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/total_likelihoods.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_230911_test/vehicle_likelihoods.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="3f2dbe10-0e4c-4726-b7ba-fc5cfc9c7fbc" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +52,7 @@
       <workItem from="1695109354456" duration="247000" />
       <workItem from="1695112158463" duration="14000" />
       <workItem from="1695123989034" duration="2834000" />
-      <workItem from="1695128144349" duration="503000" />
+      <workItem from="1695128144349" duration="815000" />
     </task>
     <servers />
   </component>
